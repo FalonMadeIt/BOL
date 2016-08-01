@@ -1,0 +1,15 @@
+{
+  "name": "bol",
+  "version": "1.0.0",
+  "description": "Business of Life cc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Falon Thomas",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1"
+  }
+}

@@ -1,0 +1,19 @@
+img.logo-img{
+  margin-top: 4em;
+  width:300px;
+}
+
+nav ul a:hover, .side-nav a:hover {
+    background-color: #86C548;
+}
+
+nav ul a, nav .brand-logo, .side-nav a {
+    color: #2183C5;
+}
+
+#current-page{
+  background-color: #86C548;
+}
+.card-content{
+  color: black;
+}
