@@ -1,3 +1,7 @@
+hr{
+  border-color: #86C548;
+}
+
 img.logo-img{
   margin-top: 4em;
   width:300px;
@@ -16,4 +20,13 @@ nav ul a, nav .brand-logo, .side-nav a {
 }
 .card-content{
   color: black;
+}
+
+.cards{
+  display: inline-block;
+}
+
+footer ul li{
+  display: inline-block;
+  padding-right: 3em;
 }
